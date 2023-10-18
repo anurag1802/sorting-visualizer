@@ -4,7 +4,7 @@ This is a web-based sorting algorithm visualizer built with HTML, CSS, JavaScrip
 
 ## Demo
 
-You can check out the live demo of the Sorting Visualizer here: [[Demo Link](#)](https://sorting-visualizer-jade.vercel.app/index.html)
+You can check out the live demo of the Sorting Visualizer here: [Demo Link](https://sorting-visualizer-jade.vercel.app/index.html)
 
 ## Features
 
@@ -56,6 +56,6 @@ Please follow the induxtry Code of Conduct and the Contributing Guidelines when 
 If you have any questions or suggestions, feel free to contact me:
 
 Email: anuragrmohanty@gmail.com
-GitHub: [[Github Profile](#)](https://github.com/ar-mohanty/)
-Website: [[Portfolio Link](#)](https://www.armohanty.com)
+GitHub: [Github Profile](https://github.com/ar-mohanty/)
+Website: [Portfolio Link](https://www.armohanty.com)
 Happy Sorting Coders!

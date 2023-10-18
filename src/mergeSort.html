@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="/dist/output.css" rel="stylesheet">
+  <title>AlgoVisualizer | Merge Sort</title>
+</head>
+
+<body class="bg-[#323232]">
+  <nav class="bg-[#424242] py-3 flex justify-between items-center px-10">
+    <a href="./index.html" class="text-xl text-white text-center font-bold font-sans uppercase lg:text-3xl">
+      AlgoVisualizer | Merge Sort
+    </a>
+    <ul class="flex justify-between items-center gap-x-5 text-white">
+      <li><a href="./bubbleSort.html">Bubble Sort</a></li>
+      <li><a href="./insertionSort.html">Insertion Sort</a></li>
+      <li><a href="./quickSort.html">Quick Sort</a></li>
+      <li class="underline font-bold"><a href="./mergeSort.html">Merge Sort</a></li>
+    </ul>
+  </nav>
+  <div id="array-wrapper" class="flex flex-col justify-center items-center py-24 gap-y-5">
+    <p id="sorting-heading" class="text-gray-500 capitalize text-lg italic">Press Generate Array to Start</p>
+    <div id="array-element" class="flex flex-row justify-center items-center"></div>
+    <div class="flex flex-row gap-x-5">
+      <button id="generate-btn" class="bg-[#f7f7f7] py-2 px-3 rounded text-md" onclick="generateArray()">Generate
+        Array</button>
+      <button id="visualize-btn" class="bg-[#f7f7f7] py-2 px-3 rounded text-md" onclick="visualizeMergeSort()">Quick
+        Sort</button>
+      <button id="reset-btn" class="bg-[#f7f7f7] py-2 px-3 rounded text-md"
+        onclick="window.location.reload()">Reset</button>
+    </div>
+    <div class="py-4">
+      <div class="w-[300px] flex justify-between py-2">
+        <label for="points" class="text-white" id="range-value">0s delay</label>
+      </div>
+      <input type="range" id="speed-range" name="points" min="0" max="5000" step="100" value="0" class="w-[300px]"
+        onchange="setSpeed()">
+    </div>
+
+
+  </div>
+
+  <script src="app.js"></script>
+
+</body>
+
+</html>

@@ -44,11 +44,12 @@ Click the "Visualize" button to see the sorting algorithm in action.
 ### Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
 
-Fork the project on GitHub.
-Create a new branch with a descriptive name.
-Make your changes and commit them.
-Push your branch to your fork.
-Create a pull request to the main branch of this repository.
+-Fork the project on GitHub.
+-Create a new branch with a descriptive name.
+-Make your changes and commit them.
+-Push your branch to your fork.
+-Create a pull request to the main branch of this repository.
+
 
 Please follow the induxtry Code of Conduct and the Contributing Guidelines when contributing.
 

@@ -818,6 +818,10 @@ video {
   overflow-y: scroll;
 }
 
+.whitespace-normal {
+  white-space: normal;
+}
+
 .rounded {
   border-radius: 0.25rem;
 }
@@ -914,6 +918,10 @@ video {
 
 .p-5 {
   padding: 1.25rem;
+}
+
+.p-6 {
+  padding: 1.5rem;
 }
 
 .px-10 {

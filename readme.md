@@ -70,6 +70,6 @@ Happy Sorting Coders!
 <div style="display: flex; justify-content: flex-start;">
   <img src="https://github.com/ar-mohanty/sorting-visualizer/raw/master/src/iPhone%2012%20Pro.jpeg" alt="iPhone 12 Pro" width="200">
   <img src="https://github.com/ar-mohanty/sorting-visualizer/raw/master/src/iPad.jpeg" alt="iPad" width="300">
-  <img src="https://github.com/ar-mohanty/sorting-visualizer/raw/master/src/MacBook%20Pro.jpeg" alt="MacBook Pro" width="500">
+  <img src="https://github.com/ar-mohanty/sorting-visualizer/raw/master/src/MacBook%20Pro.jpeg" alt="MacBook Pro" width="300">
 </div>
 
